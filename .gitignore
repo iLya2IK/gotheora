@@ -3,6 +3,8 @@
 !*.*
 !test
 !test/*
+!test/encoder/*
+test/encoder/encoder
 
 *.kate-swp
 *.exe

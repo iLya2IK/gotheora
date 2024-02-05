@@ -15,7 +15,7 @@ go get -u github.com/ilya2ik/gotheora
 
 ### Example for usage
 
-You can find an example of using the encoder [here](https://github.com/iLya2IK/gotheora/test/encoder)
+You can find an example of using the encoder [here](https://github.com/iLya2IK/gotheora/tree/main/test/encoder)
 
 ## Documents
 
